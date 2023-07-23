@@ -2,7 +2,7 @@
 
 ## How-to-Open
 
-[Click here to view Analyst_Report.html](https://ryanstark223232.github.io/work-porfolio-hotmob/Entrance_Test/Analyst_Report.html)
+[Click here to view Analyst_Report.html](https://ryanstark223232.github.io/Hotmob-Entrance-Test/Analyst_Report.html)
 
 ## Background
 
